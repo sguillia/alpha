@@ -1,0 +1,6 @@
+{
+	"name": "alpha",
+	"scripts": {
+		"test": "jest test.test.js"
+	}
+}

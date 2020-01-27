@@ -22,3 +22,5 @@ function randomNumber(min, max) {
 }
 const email = emails[randomNumber(0, emails.length)]
 isEmailValid(email)
+
+module.exports = { isEmailValid }
